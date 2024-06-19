@@ -1,4 +1,3 @@
-import csv
 
 class Student: 
     def __init__(self, name, grade): 
