@@ -1,1 +1,2 @@
-Name: Potter, Grades: [30, 50]
+Name: Ishika, Grades: {'Math': 90}
+Name: Potter, Grades: {'FO': '39'}
