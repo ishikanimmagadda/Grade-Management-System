@@ -32,7 +32,7 @@ class Student:
 
     
     
-#for every new run overwrites old info from file 
+#every new run overwrites old info from file 
 file = open("gradefile.txt", 'w')
 
 #declaring class variable 
